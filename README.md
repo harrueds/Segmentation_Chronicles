@@ -191,3 +191,5 @@ Este enfoque asegura que el análisis sea **reproducible, escalable y confiable*
 **Licencia**: GPLv3
 
 ---
+
+[![CI — Segmentación y detección de anomalías en pacientes crónicos](https://github.com/harrueds/Segmentation_Chronicles/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/harrueds/Segmentation_Chronicles/actions/workflows/ci-cd.yml)
