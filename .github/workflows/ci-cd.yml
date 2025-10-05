@@ -1,4 +1,4 @@
-name: CI — Ejecutar Notebook
+name: CI — Segmentación y detección de anomalías en pacientes crónicos
 
 on:
   push:
